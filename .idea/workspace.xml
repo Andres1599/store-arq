@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Unnamed" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9bbecd56-6ee1-476f-9fbd-eccc858c9bc2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Oracle - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Oracle - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="STORES: schema" type="3abd1b6a:OraImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Oracle - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="STORES: schema" type="3abd1b6a:OraImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Oracle - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="STORES: schema" type="3abd1b6a:OraImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="VEHICLE: table" type="942f455b:OraImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="Unnamed" pattern="src:unis.stores.entities.*||src:unis.stores.controller.*||src:unis.stores.repositories.*||src:unis.stores.constants.*||src:unis.stores.services.line.*||src:unis.stores.services.sale.*||src:unis.stores.services.user.*||src:unis.stores.services.brand.*||src:unis.stores.services.client.*||src:unis.stores.services.fabric.*||src:unis.stores.services.product.*||src:unis.stores.services.request.*||src:unis.stores.services.vehicle.*||src:unis.stores.services.creditsale.*||src:unis.stores.services.orderstate.*||src:unis.stores.services.requeststate.*||src:unis.stores.services.subscription.*||src:unis.stores.services.rol.*" />
+  </component>
+  <component name="ProjectId" id="1XSF0nKMK1kTdG5sLbGdN8hX1gK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="oracle" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3321839" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jalvarez\IdeaProjects\Stores\src\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jalvarez\IdeaProjects\Stores\src" />
+      <recent name="C:\Users\jalvarez\IdeaProjects\Stores\src\main\javadoc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainApplicationClass (1)">
+    <configuration name="BrandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Stores" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BrandTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Stores" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LineTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubscriptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Stores" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SubscriptionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Stores" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UnitTesting" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplicationClass (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unis.stores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="unis.stores.MainApplicationClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplicationClass" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Stores" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unis.stores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="unis.stores.MainApplicationClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61865" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MainApplicationClass (1)" />
+        <item itemvalue="JUnit.UnitTesting" />
+        <item itemvalue="JUnit.SubscriptionTest" />
+        <item itemvalue="JUnit.LineTest" />
+        <item itemvalue="JUnit.BrandTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bbecd56-6ee1-476f-9fbd-eccc858c9bc2" name="Default Changelist" comment="" />
+      <created>1581031367299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581031367299</updated>
+      <workItem from="1581031374541" duration="31270000" />
+      <workItem from="1581902002043" duration="8132000" />
+      <workItem from="1582241255361" duration="3248000" />
+      <workItem from="1583101108038" duration="5667000" />
+      <workItem from="1583186746297" duration="9508000" />
+      <workItem from="1583715285252" duration="6179000" />
+      <workItem from="1583874489830" duration="3084000" />
+      <workItem from="1584319534971" duration="7882000" />
+      <workItem from="1584392365046" duration="7417000" />
+      <workItem from="1584467510956" duration="110000" />
+      <workItem from="1584564102188" duration="240000" />
+      <workItem from="1584746187488" duration="4138000" />
+      <workItem from="1585178368312" duration="3710000" />
+      <workItem from="1585782301270" duration="603000" />
+      <workItem from="1585800556308" duration="6432000" />
+      <workItem from="1585938561238" duration="1279000" />
+      <workItem from="1586028542574" duration="7094000" />
+      <workItem from="1586659024479" duration="6545000" />
+      <workItem from="1586804622813" duration="684000" />
+      <workItem from="1586884688998" duration="10664000" />
+      <workItem from="1587244944178" duration="2509000" />
+      <workItem from="1587249430639" duration="37814000" />
+      <workItem from="1587515791985" duration="27060000" />
+      <workItem from="1587596869947" duration="18453000" />
+      <workItem from="1588706408583" duration="1115000" />
+      <workItem from="1588906829797" duration="4459000" />
+      <workItem from="1589082205477" duration="2789000" />
+      <workItem from="1589293418148" duration="13065000" />
+      <workItem from="1589505425849" duration="10131000" />
+      <workItem from="1589600234922" duration="11841000" />
+      <workItem from="1598918275948" duration="2213000" />
+      <workItem from="1598925783649" duration="3028000" />
+    </task>
+    <task id="LOCAL-00001" summary="adding client and subscription methods">
+      <created>1581278189090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581278189090</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding login service">
+      <created>1581312285646</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581312285646</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding create and update user service">
+      <created>1581316791045</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581316791045</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add: agregando rama de develop para pruebas de docker file">
+      <created>1598849140781</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598849140781</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add: haciendo cambios para poder hacer un pipeline del de la aplicacion">
+      <created>1598850095216</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598850095216</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="adding client and subscription methods" />
+    <MESSAGE value="adding login service" />
+    <MESSAGE value="adding create and update user service" />
+    <MESSAGE value="add: agregando rama de develop para pruebas de docker file" />
+    <MESSAGE value="add: haciendo cambios para poder hacer un pipeline del de la aplicacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: haciendo cambios para poder hacer un pipeline del de la aplicacion" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1984" y="-307" key="#MainApplicationClass" timestamp="1598926191941">
+      <screen x="1366" y="-425" width="1920" height="1040" />
+    </state>
+    <state x="1984" y="-307" key="#MainApplicationClass/0.0.1366.728/1366.-425.1920.1040@1366.-425.1920.1040" timestamp="1598926191941" />
+    <state width="1299" height="282" key="GridCell.Tab.0.bottom" timestamp="1598928137935">
+      <screen x="1366" y="-425" width="1920" height="1040" />
+    </state>
+    <state width="1299" height="282" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-425.1920.1040@1366.-425.1920.1040" timestamp="1598928137935" />
+    <state width="1299" height="282" key="GridCell.Tab.0.center" timestamp="1598928137935">
+      <screen x="1366" y="-425" width="1920" height="1040" />
+    </state>
+    <state width="1299" height="282" key="GridCell.Tab.0.center/0.0.1366.728/1366.-425.1920.1040@1366.-425.1920.1040" timestamp="1598928137935" />
+    <state width="1299" height="282" key="GridCell.Tab.0.left" timestamp="1598928137935">
+      <screen x="1366" y="-425" width="1920" height="1040" />
+    </state>
+    <state width="1299" height="282" key="GridCell.Tab.0.left/0.0.1366.728/1366.-425.1920.1040@1366.-425.1920.1040" timestamp="1598928137935" />
+    <state width="1299" height="282" key="GridCell.Tab.0.right" timestamp="1598928137935">
+      <screen x="1366" y="-425" width="1920" height="1040" />
+    </state>
+    <state width="1299" height="282" key="GridCell.Tab.0.right/0.0.1366.728/1366.-425.1920.1040@1366.-425.1920.1040" timestamp="1598928137935" />
+    <state width="1299" height="282" key="GridCell.Tab.1.bottom" timestamp="1598928137936">
+      <screen x="1366" y="-425" width="1920" height="1040" />
+    </state>
+    <state width="1299" height="282" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-425.1920.1040@1366.-425.1920.1040" timestamp="1598928137936" />
+    <state width="1299" height="282" key="GridCell.Tab.1.center" timestamp="1598928137936">
+      <screen x="1366" y="-425" width="1920" height="1040" />
+    </state>
+    <state width="1299" height="282" key="GridCell.Tab.1.center/0.0.1366.728/1366.-425.1920.1040@1366.-425.1920.1040" timestamp="1598928137936" />
+    <state width="1299" height="282" key="GridCell.Tab.1.left" timestamp="1598928137936">
+      <screen x="1366" y="-425" width="1920" height="1040" />
+    </state>
+    <state width="1299" height="282" key="GridCell.Tab.1.left/0.0.1366.728/1366.-425.1920.1040@1366.-425.1920.1040" timestamp="1598928137936" />
+    <state width="1299" height="282" key="GridCell.Tab.1.right" timestamp="1598928137936">
+      <screen x="1366" y="-425" width="1920" height="1040" />
+    </state>
+    <state width="1299" height="282" key="GridCell.Tab.1.right/0.0.1366.728/1366.-425.1920.1040@1366.-425.1920.1040" timestamp="1598928137936" />
+    <state x="616" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598850595101">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="616" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1598850595101" />
+  </component>
+</project>
