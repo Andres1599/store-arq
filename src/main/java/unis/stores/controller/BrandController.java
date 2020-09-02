@@ -24,12 +24,6 @@ public class BrandController {
     @Autowired
     private BrandService brandService;
 
-    /**
-     * Create a brand in the system
-     *
-     * @param     body contains the information to create the brand
-     * @return    returns the result of the creation action
-     */
     @PostMapping("/brand")
     public ResponseEntity<Object> create(@RequestBody Map<String, String> body) {
         if (!body.containsKey(Constants.BRAND_NAME_LABEL))
