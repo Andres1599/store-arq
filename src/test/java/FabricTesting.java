@@ -25,9 +25,9 @@ public class FabricTesting {
     private static final String NEW_FABRIC_NAME = "New Fabric Name";
 
     public FabricTesting() {
-        this.testFabric.setName("Fabric");
-        this.testFabric.setIp("127.0.0.1");
-        this.testFabric.setServicePassword("password");
+        this.testFabric.setName("New Fabric");
+        this.testFabric.setIp("localhost");
+        this.testFabric.setServicePassword("password-fabric1");
     }
 
     @Before
