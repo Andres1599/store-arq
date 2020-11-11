@@ -26,8 +26,7 @@ public class Line {
     )
     @Column(name = "id")
     @GeneratedValue(generator = "idLineSequenceGenerator")
-    private int id;
-    private int id_par;
+    private int id
 
     /**
      * The name of the line
@@ -45,7 +44,6 @@ public class Line {
      */
     public int getId() {
         return id;
-    }
 
     /**
      * Sets the id to the line
