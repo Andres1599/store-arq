@@ -45,11 +45,6 @@ public class Line {
     public int getId() {
         return id;
 
-    /**
-     * Sets the id to the line
-     *
-     * @param     id the value we want be the id of the line.
-     */
     public void setId(int id) {
         this.id = id;
     }
